@@ -1,0 +1,17 @@
+## Go
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+## Protobuf
+*.pb.go
+
+## Other
+bin
+.vscode
+TODO.md
+Makefile
